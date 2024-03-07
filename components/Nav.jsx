@@ -4,7 +4,6 @@ import Link from "next/link";
 import Image from "next/image"; // Correct import statement
 import { useState, useEffect } from "react";
 import {
-  SignIn,
   useSession,
   getProviders,
   signOut,
